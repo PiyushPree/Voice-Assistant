@@ -50,7 +50,7 @@ def wishme():
         speak(f"Good Moring Team, it's {tt}")
 
     elif hour >= 12 and hour < 18:
-        speak(f"Good Evening Team, it's {tt}")
+        speak(f"Good Noon Team, it's {tt}")
 
     else:
         speak(f"Good Evening Team, it's {tt}")
